@@ -1,4 +1,4 @@
 # MGCL
-![image](https://github.com/user-attachments/assets/430e0dcb-f3ba-4021-a560-bc15a649d259)
+![image](https://github.com/user-attachments/assets/d1eda71e-bacc-43dd-992a-c2de0fe7a322)
 
-[fig3.pdf](https://github.com/user-attachments/files/18815324/fig3.pdf)
+![image](https://github.com/user-attachments/assets/3191ff2b-cebd-458a-ae03-095ecba561af)
